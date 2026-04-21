@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Built app
+dist/
+
+# Database file (optional: include if you want to track schema)
+data/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env

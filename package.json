@@ -1,0 +1,16 @@
+{
+  "name": "aki-gym-management",
+  "version": "1.0.0",
+  "description": "AKI Gym Management System",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --inspect"
+  },
+  "devDependencies": {
+    "electron": "^29.0.0"
+  },
+  "dependencies": {
+    "mysql2": "^3.9.0"
+  }
+}
